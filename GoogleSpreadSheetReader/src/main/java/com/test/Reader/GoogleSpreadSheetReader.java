@@ -16,7 +16,7 @@ import com.google.gdata.data.spreadsheet.WorksheetFeed;
 import com.google.gdata.util.ServiceException;
 
 /**
- * Reads the Google URL and prints entries.a
+ * Reads the Google URL and prints entries.
  * 
  * @author SWAPNIL
  * 
